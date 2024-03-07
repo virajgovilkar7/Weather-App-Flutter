@@ -8,6 +8,7 @@
 > Real-Time data from openweather API
 ><br>
 > Dark mode enhances the user experience further
+> Refresh button to refresh the live data everytime it is pressed
 
 <br>
 <br>
